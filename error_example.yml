@@ -13,3 +13,4 @@
        msg="STDERR - {{ comm_out.stderr }}"
     - debug:
        msg= "STDOUT - {{ comm_out.rc }}"
+
